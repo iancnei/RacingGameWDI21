@@ -1,3 +1,25 @@
 .game-title{
 	text-align: center;
 }
+
+.p1-track{
+	background-color: red;
+	font-weight: bold;
+}
+
+.p1{
+	position: relative;
+}
+
+.p2-track{
+	background-color: blue;
+	font-weight: bold;	
+}
+
+.p2{
+	position: relative;
+}
+
+.winner-message{
+	text-align: center;
+}
